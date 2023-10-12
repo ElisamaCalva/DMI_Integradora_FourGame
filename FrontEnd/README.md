@@ -1,4 +1,4 @@
-# DMI_Practica9_200561
+# DMI_Integradora_FourGame_200561
 
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
@@ -15,9 +15,9 @@
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="./assets/a1.png" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/a2.png" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/a3.png" width="200" alt="Captura de Pantalla 3">
+  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap1.png" width="200" alt="Captura de Pantalla 1">
+  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap2.png" width="200" alt="Captura de Pantalla 2">
+  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap3.png" width="200" alt="Captura de Pantalla 3">
   <img src="./assets/a4.png" width="200" alt="Captura de Pantalla 4">
 </p>
 
