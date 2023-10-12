@@ -30,33 +30,27 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 9: Itemizacion de las películas e incorporación deo widget card |
-| Descripción  | # Splash Screen en Flutter
+| Descripción  | Preparación del proyecto y archivos de documentación:
 
-Aprende a agregar un splash screen a tu aplicación Flutter en unos pocos pasos simples.
+Asegúrate de que tu proyecto Flutter esté configurado correctamente y que tengas una estructura de carpetas que incluye la carpeta assets con la imagen para el splash screen.
+En el directorio raíz de tu proyecto, crea una carpeta llamada docs para almacenar los archivos de documentación.
+En la carpeta docs, crea un archivo Markdown llamado splash_screen.md para documentar la pantalla de inicio y su implementación.
+Escribir la documentación:
 
-## Paso 1: Preparar la imagen del splash
+Abre el archivo splash_screen.md en un editor de texto o Markdown.
+Copia y pega el código que proporcionaste en la pregunta en el archivo. Asegúrate de que el código esté formateado correctamente y esté rodeado por bloques de código Markdown (usando tres comillas invertidas ```).
+Añade una introducción breve sobre el splash screen y su propósito en tu aplicación.
+Proporciona explicaciones detalladas de cada parte del código y cómo funciona el splash screen.
+Capturas de pantalla:
 
-- Prepara una imagen en formato PNG o JPG.
-- Coloca la imagen en la carpeta `assets` de tu proyecto.
+Agrega capturas de pantalla que muestren cómo se verá el splash screen en la aplicación, cómo se verá la imagen, el progreso de carga y cualquier otro elemento relevante.
+Usa Markdown para insertar imágenes en tu documentación.
+Instrucciones paso a paso:
 
-## Paso 2: Diseñar el Splash Screen
+Proporciona instrucciones paso a paso sobre cómo implementar el splash screen en un proyecto Flutter. Puedes seguir el ejemplo proporcionado en el archivo Markdown para describir los pasos necesarios.
+Personalización:
 
-- Crea un nuevo archivo Dart para representar el splash screen.
-- Asegúrate de que el archivo `pubspec.yaml` incluya la referencia a la imagen en la carpeta `assets`.
-
-```dart
-- import 'package:flutter/material.dart';
-
-class SplashScreen extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-        child: Image.asset('assets/mi_splash.png'),
-      ),
-    );
-  }
-}
+Si el código proporcionado permite la personalización (por ejemplo, cambiar la imagen, los colores, el tiempo de carga, etc.), asegúrate de explicar cómo realizar esas personalizaciones en la documentación.
 |  Fecha de Carga | 11/10/23  |
 
 &nbsp;
