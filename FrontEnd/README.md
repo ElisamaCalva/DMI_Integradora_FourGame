@@ -18,7 +18,7 @@
   <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap1.png" width="200" alt="Captura de Pantalla 1">
   <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap2.png" width="200" alt="Captura de Pantalla 2">
   <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/cap3.png" width="200" alt="Captura de Pantalla 3">
-  <img src="./assets/a4.png" width="200" alt="Captura de Pantalla 4">
+  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/FrontEnd/App/Flutter-app/abyssal_dungeon/assets/logo.png" width="200" alt="Captura de Pantalla 4">
 </p>
 
 
