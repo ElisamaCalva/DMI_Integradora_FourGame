@@ -30,23 +30,22 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre  |  Practica 9: Itemizacion de las películas e incorporación deo widget card |
-| Descripción  | # Agregar un Splash Screen en Flutter
+| Descripción  | # Splash Screen en Flutter
 
-En este tutorial, aprenderás cómo crear un splash screen para tu aplicación Flutter.
+Aprende a agregar un splash screen a tu aplicación Flutter en unos pocos pasos simples.
 
 ## Paso 1: Preparar la imagen del splash
 
-1. Prepara una imagen en formato PNG o JPG que deseas utilizar como splash screen.
-2. Coloca la imagen en la carpeta `assets` de tu proyecto Flutter.
+- Prepara una imagen en formato PNG o JPG.
+- Coloca la imagen en la carpeta `assets` de tu proyecto.
 
 ## Paso 2: Diseñar el Splash Screen
 
-1. Crea un nuevo archivo Dart para representar el splash screen.
-2. Puedes usar un `StatelessWidget` o un `StatefulWidget`, según tus necesidades.
-3. Asegúrate de que el archivo `pubspec.yaml` incluya la referencia a la imagen en la carpeta `assets`.
+- Crea un nuevo archivo Dart para representar el splash screen.
+- Asegúrate de que el archivo `pubspec.yaml` incluya la referencia a la imagen en la carpeta `assets`.
 
 ```dart
-import 'package:flutter/material.dart';
+- import 'package:flutter/material.dart';
 
 class SplashScreen extends StatelessWidget {
   @override
@@ -58,7 +57,6 @@ class SplashScreen extends StatelessWidget {
     );
   }
 }
-  |
 |  Fecha de Carga | 11/10/23  |
 
 &nbsp;
