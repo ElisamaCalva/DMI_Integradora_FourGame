@@ -59,7 +59,10 @@ Si el código proporcionado permite la personalización (por ejemplo, cambiar la
 &nbsp;
 &nbsp;
 
-
+<br>
+<br>
+<br>
+<br>
 
 [![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
 
