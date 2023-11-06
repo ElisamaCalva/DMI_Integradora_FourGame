@@ -12,7 +12,7 @@
  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/Backend/abyssal_dungeon/img1.jpg" width="200" alt="Captura de Pantalla 1">
  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/Backend/abyssal_dungeon/img2.jpg" width="200" alt="Captura de Pantalla 2">
  <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/Backend/abyssal_dungeon/img3.jpg" width="200" alt="Captura de Pantalla 3">
- <img src="https://github.com/Eliel-Kun-RL15/DMI_PRACTICA13_200327/blob/main/captura1.png" width="200" alt="Captura de Pantalla 4">
+ <img src="https://github.com/ElisamaCalva/DMI_Integradora_FourGame/blob/main/Backend/abyssal_dungeon/img4.jpg" width="200" alt="Captura de Pantalla 4">
  <img src="https://github.com/Eliel-Kun-RL15/DMI_Practica14_200327/blob/main/cap2.png" width="200" alt="Captura de Pantalla 5">
 
 </p>
