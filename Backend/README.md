@@ -29,8 +29,8 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 17: Implementación de la Actualización y eliminación de datos de los jugadores. |
-| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME. |
+| Nombre  |  Practica 18: Implementación de la Actualización y eliminación de datos de los jugadores. |
+| Descripción  | Esta aplicación con el nombre de API_VIDEOGAMEt para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, pero ¿Que es un CRUD? Un CRUD es el acrónimo de "Crear, Leer, Actualizar y Borrar", que se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada, se tiene como meta poder mostrar los avances o evolución del CRUD que tendrá como finalidad poderse conectar a la API del equipo FOUR-GAME, en este nuevo avance se realizo la incorporación de poder editar los usuarios el la base de datos y poder eliminarlos, para ello se crearon las conaciones de las rutas  y se hicieron funcionales en la base de datos.|
 |  Fecha de Carga | 15/11/23  |
 
 &nbsp;
