@@ -1,0 +1,30 @@
+{
+  "name": "mx.utxj.ti.dmi.api_videogame",
+  "version": "1.0.0",
+  "description": "API Rest para realizar las operaciones CRUD a una base de Datos Relacional, del proyecto de videojuego",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/serve.js"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "MySQL",
+    "Sequelize",
+    "Express"
+  ],
+  "author": "Ing.Fanatico de las Monas Chinas. Eliel Díaz Galindo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.34.0"
+  }
+}
